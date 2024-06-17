@@ -1,5 +1,4 @@
 # SAE-Estimation
-Un projet supervisé associé à l'Université Côte d'Azur.
 
 ## Introduction
 Ce projet vise à appliquer les connaissances en estimation des indicateurs statistiques, en sondage et en échantillonnage.
